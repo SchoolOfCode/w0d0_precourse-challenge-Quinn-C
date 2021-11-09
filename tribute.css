@@ -1,0 +1,42 @@
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h2,
+h3,
+p,
+figcaption {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 10px;
+}
+
+figure {
+    border: 1px black;
+    padding: 25px 100px 25px 100px;
+    background-color: white;
+}
+
+ul {
+    border: 1px black;
+    padding: 25px 500px 25px 550px;
+}
+
+li {
+    padding: 25px 10px 25px 10px;
+}
+
+main {
+    padding: 55px 200px 55px 200px;
+    background-color: lightgrey;
+}
