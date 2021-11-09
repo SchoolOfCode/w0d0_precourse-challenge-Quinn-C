@@ -1,5 +1,5 @@
 # Why I chose this subject?
-I chose it because **Alan Turing** is a national hero and I want more and more people who doesn't have computer science background to know him. He is not only the code-breaker in World War Two, but also he is the father of modern computer science.
+I chose **Alan Turing**, because he is a national hero and I want more and more people who doesn't have computer science background to know him. He is not only the code-breaker in World War Two, but also he is the father of modern computer science.
 
 
 # What I learned through this challenge?
