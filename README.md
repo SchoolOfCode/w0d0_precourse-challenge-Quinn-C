@@ -1,3 +1,7 @@
+> First public project finished
+
+Please find my Github page here: https://schoolofcode.github.io/w0d0_precourse-challenge-Quinn-C/
+
 # Why I chose this subject?
 I chose **Alan Turing**, because he is a national hero and I want more and more people who doesn't have computer science background to know him. He is not only the code-breaker in World War Two, but also he is `the father of modern computer science`.
 
@@ -14,8 +18,8 @@ I have learned how to:
 
 
 # Reflections on the development journey.
-> First public project finished
 
-It was a very enjoyable development journey. Although I encountered some errors, mistakes, etc., during this process, I found I can find the solutions of these issues from websites, such as stackoverflow, so that I can solve them quickly. 
 
 > Keep learning and keep solving problems!
+
+It was a very enjoyable development journey. Although I encountered some errors, mistakes, etc., during this process, I found I can find the solutions of these issues from websites, such as stackoverflow, so that I can solve them quickly. 
